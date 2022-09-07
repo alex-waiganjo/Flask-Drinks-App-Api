@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(57, 90, 22);
+    background-repeat:no-repeat;
+    color:white;     
+}
+h1,a,p,footer{
+    display: flex;    
+    justify-content: center;    
+}
+h1{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color:greenyellow;
+}
